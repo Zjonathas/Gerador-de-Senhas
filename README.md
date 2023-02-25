@@ -8,7 +8,7 @@ Esse projeto tem como objetivo fazer com que o script fique mais amigável para 
 - Pyside2
 
 ## Como utilizar
-- Baixe todos os aquivos
+- Baixe todos os aquivos que estão na branch master
 - Verifique se estão na mesma pasta
 - Caso não esteja, transfira eles para uma pasta
 - Abra seu terminal/IDE e execute o arquivo desing.py
